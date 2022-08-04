@@ -12,12 +12,12 @@ global.APIKeys = {
 }
 
 global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `Hi` )
 
 
-global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
+global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
@@ -29,32 +29,32 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] //ur owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" //ur owner name
-global.ytname = "" //ur yt chanel name
-global.socialm = "GitHub: prabhasha2006" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['+94785128014'] //ur owner number
+global.ownername = "TD 𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛" //ur owner name
+global.ytname = "https://chat.whatsapp.com/CAnug52M6wC4Xs3gGtfnwZ" //ur yt chanel name
+global.socialm = "GitHub: thasmi1000a" //ur github or insta name
+global.location = "Sri lanka" //ur location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/x7qYTrq/20220605-103944.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
-global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
+global.dragonchat = "true"  // chat bot  "true" / "false" (200 auto replies in this)
 
-global.callblock === "false" // call block "true" / "false" (CALL ගන්න අය block කිරීමට "true")
+global.callblock === "true" // call block "true" / "false" (CALL ගන්න අය block කිරීමට "true")
 
 global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //ur tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.ownertag = '+94785128014' //ur tag number
+global.botname = 'TD 𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-MD ]' //In list menu
 
 global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
+global.btnurl = 'https://github.com/thasmi1000a' //Change Your Button's URL
 
 //damtabase
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94785128014'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -76,8 +76,8 @@ global.ntilink = []
 
 //omther
 global.sessionName = 'session'
-global.antitags = false
-global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
+global.antitags = true
+global.prefa = ['#','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sp = '💠'
 global.mess = {
     success: 'Done ✅',
