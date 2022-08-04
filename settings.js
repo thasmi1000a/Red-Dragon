@@ -29,7 +29,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+94785128014'] //ur owner number
+global.vcardowner = ['+94713636366'] //ur owner number
 global.ownername = "TD 𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛" //ur owner name
 global.ytname = "https://chat.whatsapp.com/CAnug52M6wC4Xs3gGtfnwZ" //ur yt chanel name
 global.socialm = "GitHub: thasmi1000a" //ur github or insta name
@@ -43,7 +43,7 @@ global.dragonchat = "true"  // chat bot  "true" / "false" (200 auto replies in t
 global.callblock === "true" // call block "true" / "false" (CALL ගන්න අය block කිරීමට "true")
 
 global.owner = ['+380944814219']
-global.ownertag = '+94785128014' //ur tag number
+global.ownertag = '+94713636366' //ur tag number
 global.botname = 'TD 𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
@@ -54,7 +54,7 @@ global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/thasmi1000a' //Change Your Button's URL
 
 //damtabase
-global.premium = ['+94785128014'] //ur premium numbers
+global.premium = ['+94713636366'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
